@@ -14,7 +14,7 @@ const Banner = () => {
                
 				</div>
 				<div className="col-12 col-md-6">
-				<h1 className="heading fw-bold heading-font-size text-uppercase text-dark"><span className='text-danger'>LipstickShop</span>  <br/> To Look More Glamourous and Beautiful</h1>
+				<h1 className="heading fw-bold heading-font-size text-uppercase text-dark"><span className='text-danger'>LipstickShop</span>  </h1> <h1>To Look More Glamourous</h1> 
 
 				<p className="my-4 text-dark">We have built three professional cosmetic production factories with GMP standards, and has obtained the European Union GMP certificate and the United States FDA certificate .
 

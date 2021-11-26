@@ -9,7 +9,7 @@ const AllProducts = () => {
     const [products] = useProducts();
 
     return (
-     <div className='bg-danger'>
+     <div className='bg-light'>
         <Navigation></Navigation>
         <section className='my-5'>
 		<div className="container">
