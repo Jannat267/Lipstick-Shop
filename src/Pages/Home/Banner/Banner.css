@@ -1,0 +1,23 @@
+.banner {
+	background-color:#FDEDEC;
+	overflow-x: hidden;
+   
+
+	/* position: absolute; */
+	/* width: 100%;
+	
+	
+
+	 */	height: 100vh;
+ 
+}
+h1{
+	color:bisque;
+}
+.banner-img{
+	height: 100vh;
+}
+.explore{
+	font-weight: 600;
+	font-size: 1.5rem;
+}
